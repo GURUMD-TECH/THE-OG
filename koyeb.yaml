@@ -1,4 +1,4 @@
-name: Bmw-md
+name: The Og
 type: WEB
 
 routes:
@@ -14,7 +14,7 @@ env:
   AUTO_READ_STATUS: yes
   PRESENCE: 1
   STARTING_BOT_MESSAGE: yes
-  KOYEB_APP_NAME: Bmw md
+  KOYEB_APP_NAME: The og
 
 regions:
   - fra
@@ -39,7 +39,7 @@ volumes: []
 skip_cache: false
 
 git:
-  repository: github.com/devibraah/BWM-XMD
+  repository: github.com/GURUMD-TECH/THE-OG
   branch: main
   sha: aea4483e729d011f0c2671cb8ed51f61986eb203
   no_deploy_on_push: false

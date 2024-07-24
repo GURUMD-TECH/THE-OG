@@ -1,11 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> 𝐓𝐇𝐄 𝐎𝐆 V 2.0.0</h1>
+ <h1 align="center"> 𝐓𝐇𝐄 𝐎𝐆 V 9.0.3</h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=𝐆𝐑𝐄𝐄𝐓𝐈𝐍𝐆𝐒+𝐅𝐄𝐎𝐌+𝐓𝐇𝐄+𝐎𝐆+𝐄𝐎𝐍𝐉𝐎𝐘✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=𝐆𝐑𝐄𝐄𝐓𝐈𝐍𝐆𝐒+𝐅𝐑𝐎𝐌+𝐓𝐇𝐄+𝐎𝐆+𝐄𝐍𝐉𝐎𝐘✨)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  

@@ -25,14 +25,14 @@
   <a href="[https://gurutech462.onrender.com/](https://gurutech462.onrender.com/)"><img src="https://img.shields.io/badge/qr%20session%20code-green" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="200"></a>
 <a><img src='https://i.imgur.com/LyHc3i.gif'/></a>
 ## First fork my repository
-<a href="https://github.com/GURUMD-TECH/THE-OG/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
+<a href="https://github.com/GURUMD-TECH/THE-OG/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="200"></a>
 ## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗠𝗘 𝗚𝗘𝗘
 ## 𝐏𝐥𝐞𝐚𝐬𝐞 𝐣𝐨𝐢𝐧 𝐦𝐲 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐚𝐧𝐝 𝐠𝐞𝐭 𝐟𝐫𝐞𝐞 𝐜𝐜 𝐚𝐧𝐝 𝐮𝐩𝐝𝐚𝐭𝐞𝐬👇👇
 
 
 <p align="centre">
   <a href="https://t.me/botgurumd">
-    <img align="left" alt="SIEGRIN | "telegram" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/telegram.svg" />
+    <img align="left" alt="SIEGRIN | telegram" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/telegram.svg" />
   
 
    

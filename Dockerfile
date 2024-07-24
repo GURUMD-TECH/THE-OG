@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/devibraah/BWM-XMD.git  /root/BmwMD
-WORKDIR /root/bmwmd/
+RUN git clone https://github.com/GURUMD-TECH/THE-OG  /root/THE OG
+WORKDIR /root/theog/
 
 
 COPY package.json .
@@ -21,4 +21,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "ibrahim.js"]
+CMD ["npm", "run" , "guru.js"]

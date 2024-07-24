@@ -19,10 +19,10 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-  <a href="https://keith-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+  <a href="https://gurutech462.onrender.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 
-  <a href="https://keith-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/qr%20session%20code-orange" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+  <a href="[https://keith-sessions-pi5z.onrender.com](https://gurutech462.onrender.com/)"><img src="https://img.shields.io/badge/qr%20session%20code-orange" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 <a><img src='https://i.imgur.com/LyHc3i.gif'/></a>
 ## First fork my repository
 <a href="https://github.com/GURUMD-TECH/THE-OG/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
@@ -31,8 +31,8 @@
 
 
 <p align="centre">
-  <a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+  <a href="https://t.me/botgurumd">
+    <img align="left" alt="SIEGRIN | telegram" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/telegram.svg" />
   
 
    

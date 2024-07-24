@@ -32,7 +32,7 @@
 
 <p align="centre">
   <a href="https://t.me/botgurumd">
-    <img align="left" alt="SIEGRIN | telegram" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/telegram.svg" />
+    <img align="left" alt="SIEGRIN | "telegram" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/telegram.svg" />
   
 
    

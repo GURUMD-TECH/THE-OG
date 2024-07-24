@@ -1,24 +1,24 @@
 {
-  "name": "Bmw-md",
+  "name": "THE OG",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "guru.js",
   "scripts": {
-    "test": "node ibrahim.js",
-    "s": "node ibrahim.js",
-    "bmwmd": "pm2 start ibrahim.js --attach",
-    "bmwmd": "pm2 start ibrahim.js --attach",
+    "test": "node gurumdtech.js",
+    "s": "node gurumdtech.js",
+    "theog": "pm2 start gurumdtech.js --attach",
+    "theog": "pm2 start gurumdtech.js --attach",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Bmw-md",
+    "The-og",
     "whatsapp",
     "whatsapp-bot",
-    "bmw-md-boy"
+    "the og-boy"
   ],
-  "author": "ibraahadam",
+  "author": "gurumd-techla",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
